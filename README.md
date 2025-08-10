@@ -3,7 +3,7 @@
 Welcome! 👋  
 This is my personal **Portfolio Website** — designed, coded, and polished using  
 **HTML**, **CSS**, and **JavaScript** ✨
-🚀 Live Demo: [View Portfolio](https://m-mohid-error.github.io/TASK-1/.com)  
+🚀 Live Demo: [View Portfolio](https://m-mohid-error.github.io/TASK-1/)  
 
 ## 📌 What's Inside?  
 
